@@ -18,7 +18,7 @@ After that, players come back to the original notebook file in which they will i
 From these steps, players not only learn concepts in 3D, but they also learn how to implement them for quantum computing using languages such as Qiskit. 
 
 # Instruction for how to proceed in the notebook file
-the notebook file is 
+"main_notebook.ipynb" is the notebook file which contains the guide for how to proceed and contains tasks to solve
 
 
 # Instruction for how to open the game
