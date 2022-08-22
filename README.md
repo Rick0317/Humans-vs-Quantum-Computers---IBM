@@ -2,9 +2,9 @@
 Womanium Quantum Hackathon 2022
 
 # Team members (those who worked for the project)
-*Rick Huang, GitHub: [Rick0317](https://github.com/Rick0317)
-*Kabir Patil, GitHub: [kabir1729](https://github.com/kabir1729)
-*Aniekan Afangideh, GitHub: ![alt text]()
+* Rick Huang, GitHub: [Rick0317](https://github.com/Rick0317), email: rick.hey.huang@gmail.com
+* Kabir Patil, GitHub: [kabir1729](https://github.com/kabir1729), email: kabirspatil@gmail.com
+* Aniekan Afangideh, GitHub: [henryafangideh](https://github.com/henryafangideh), email: henryafangideh@gmail.com
 
 # Project description, motivation
 We created a flow of learning Quantum Computing. We believe enhancing the quantum community is crucial for the further development of quantum computing. For beginner, learning quantum computing is not an easy task. Yes, we know there are lot of resources online, but many of them are difficult to understand. That is why we came up with a learning flow in which people can learn quantum computing more efficiently.
