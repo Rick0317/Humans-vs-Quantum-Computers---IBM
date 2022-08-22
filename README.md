@@ -17,6 +17,10 @@ After that, players come back to the original notebook file in which they will i
 
 From these steps, players not only learn concepts in 3D, but they also learn how to implement them for quantum computing using languages such as Qiskit. 
 
+Moreover, players experience real-life application of quantum computing in "Quantum Random Number Generator Using Qiskit - WQ_07_IBM.ipynb" file.
+
+For this project, we implemented random number generator with which players can play with Japanese Omikuji, fortune generating tradition in Japan.
+
 # Instruction for how to proceed in the notebook file
 "main_notebook.ipynb" is the notebook file which contains the guide for how to proceed and contains tasks to solve.
 
@@ -45,3 +49,7 @@ You can press the buttons that represent gates in quantum computing. The quantum
 
 The look of Bloch Sphere and quantum gates is the follow.
 ![alt text](https://github.com/Rick0317/Humans-vs-Quantum-Computers---IBM/blob/master/quantum_game/assets/game_screen.png?raw=true)
+
+# What to expect in "main_notebook.ipynb" file
+
+# What to expect in "Quantum Random Number Generator Using Qiskit - WQ_07_IBM.ipyynb"
