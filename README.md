@@ -2,8 +2,8 @@
 Womanium Quantum Hackathon 2022
 
 # Team members (those who worked for the project)
-*Rick Huang, GitHub: ![alt text](https://github.com/Rick0317)
-*Kabir Patil, GitHub: ![alt text](https://github.com/kabir1729)
+*Rick Huang, GitHub: [Rick0317](https://github.com/Rick0317)
+*Kabir Patil, GitHub: [kabir1729](https://github.com/kabir1729)
 *Aniekan Afangideh, GitHub: ![alt text]()
 
 # Project description, motivation
@@ -17,8 +17,11 @@ After that, players come back to the original notebook file in which they will i
 
 From these steps, players not only learn concepts in 3D, but they also learn how to implement them for quantum computing using languages such as Qiskit. 
 
+# Instruction for how to proceed in the notebook file
+the notebook file is 
 
-## Instruction for how to open the game
+
+# Instruction for how to open the game
 First, download the zipped file from this repository.
 
 After downloaded, open the files in a text editor. 
