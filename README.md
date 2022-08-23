@@ -51,5 +51,16 @@ The look of Bloch Sphere and quantum gates is the follow.
 ![alt text](https://github.com/Rick0317/Humans-vs-Quantum-Computers---IBM/blob/master/quantum_game/assets/game_screen.png?raw=true)
 
 # What to expect in "main_notebook.ipynb" file
+In main_notebok.ipynb file, you will see a group of codes written in cells. 
+
+Please read the instructions and comments as you proceed in the file.
+
+You will expect to see some quantum circuits with several quantum gates. 
+
+You not only run the given codes, but you also have to solve some tasks given in the file. 
 
 # What to expect in "Quantum Random Number Generator Using Qiskit - WQ_07_IBM.ipyynb"
+
+You will see how quantum computing is implemented in real-life. 
+
+In our case, you will play a simple Omikuji, a traditional Japanese fortune generator. 
