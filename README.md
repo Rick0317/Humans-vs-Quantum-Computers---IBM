@@ -21,12 +21,18 @@ Moreover, players experience real-life application of quantum computing in "Quan
 
 For this project, we implemented random number generator with which players can play with Japanese Omikuji, fortune generating tradition in Japan.
 
+First, open "main_notebook.ipynb" file. In that file, you will be navigated to quantum_game which you can download from "quantum_game" folder and play. Then, again in "main_notebook.ipynb" file, you will run several codes and solve some tasks. After you finished solving tasks, you proceed to "Quantum Random Number Generator Using Qiskit - WQ_07_IBM.ipynb" file and experience the real-life application of quantum computing.
+
 # Instruction for how to proceed in the notebook file
 "main_notebook.ipynb" is the notebook file which contains the guide for how to proceed and contains tasks to solve.
 
 You will find the most of instruction here.
 
-Download the file and open in IBM Lab or Jupyter 
+Download the file and open in IBM Lab or Jupyter. 
+
+At the beginning, you will have to install some packages and import several libraries.
+
+Then, you just need to follow the instruction in the notebook file. 
 
 # Instruction for how to open the game
 First, download the zipped file from this repository.
@@ -37,7 +43,7 @@ Make sure you have installed Ursina and panda3d packages.
 
 Navigate to the game folder on CLI app. 
 
-Execute "python main.py" or "python3 main.py" will launch the game
+Executing "python main.py" or "python3 main.py" will launch the game
 
 ## Instruction for how to play the game.
 When you launched the game, you will see the instruction for how to play the game. 
